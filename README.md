@@ -42,3 +42,5 @@ Or you can download the example from [BaiduYun](https://pan.baidu.com/s/1ecVcWXD
 ```bash
 python main.py
 ```
+
+Additional steps are needed to set up the Tensor RT 4, given the reduced support & focus on the newer Tensor RT 5 by NVIDIA. Will list here some of the steps I encountered myself while stumbling to get it working these past few weeks.
