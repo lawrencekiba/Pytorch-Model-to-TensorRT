@@ -1,0 +1,12 @@
+For working with TensorRT 4.0
+
+https://docs.nvidia.com/deeplearning/sdk/tensorrt-archived/tensorrt_401/tensorrt-install-guide/index.html
+
+TensorRT Python API for v4.0
+https://docs.nvidia.com/deeplearning/sdk/tensorrt-archived/tensorrt_401/tensorrt-api/python_api/index.html
+
+Some issues on loading the ONNX model
+https://devtalk.nvidia.com/default/topic/1047625/jetson-tx2/running-a-pytorch-network-converted-to-onnx-with-tensorrt-on-the-tx2/
+
+Some example Resnet50 models to try out, for TensorRT 4 just use the first one with opset3
+https://github.com/onnx/models/tree/master/vision/classification/resnet/resnet50
